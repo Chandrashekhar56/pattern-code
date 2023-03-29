@@ -1,6 +1,6 @@
 public class Pattern5
-{  
- static void main(String[] args)  
+{ 
+ public static void main(String[] args)  
 {  
  int row=7,a=1;      
   for(int i=row; i>=0; i--)  
